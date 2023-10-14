@@ -1,2 +1,2 @@
-# Activity4-ComponentsReactNative
-Dondoyano-BSIT3A
+# Activity-4_MobileComponents
+Sarabia - BSIT3A
